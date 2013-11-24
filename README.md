@@ -27,5 +27,5 @@ The AMD module returns a constructor function which can be used within other mod
 This class generates normally distributed random numbers using the Box-Muller Transform. I am not a mathematician and do not understand the math, but [you can read about it on wikipedia](http://en.wikipedia.org/wiki/Box%E2%80%93Muller_transform) and explain it to me over beers.
 
 ##Version History
-###1.0.0 2013.11.22
-First release. Generates random numbers in pairs and returns either a single value or an array of specified length.
+###0.0.1 2013.11.22
+First release. Generates random numbers in pairs and returns either a single value or an array of specified length. Still needs testing, and the grunt jobs need validated, and needs unit tests.

@@ -3,7 +3,7 @@
  *
  * @author Michael Paull <me@michaelpaull.com>
  * @license Released under the MIT License.
- * @version 1.0.0
+ * @version 0.0.1
  */
 
 (function(){
